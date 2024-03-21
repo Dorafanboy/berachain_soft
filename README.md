@@ -5,4 +5,4 @@
   5. BEND - deposit btc, borrow HONEY.
   6. Забирание BGT токенов за пулы.
   7. Делегирование BGT на BGT Station.
-  8. Выполнение дейликов/статик квестов на Galxe
+  8. Выполнение daily/static заданий на Galxe
